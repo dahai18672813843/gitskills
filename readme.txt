@@ -1,3 +1,3 @@
 dev branch
 
-master branch is simple
+master branch is quick and simple
